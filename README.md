@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 张量流菜鸡，火把门内汉，飞桨操作人
+
+#### 语言艺术家，芝麻街公仔训练员
+
+#### OBTAINED MASTER DEGREE from SYSU.
+
+#### NATURAL LANGUAGE PROCESSING ROOKIE.
+
+#### INTERESTED in NLU for YEARS.
