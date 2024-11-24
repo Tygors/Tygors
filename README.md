@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### 张量流菜鸡，火把门内汉，飞桨操作人
 
-#### 语言艺术家，芝麻街公仔训练员
+#### 语言艺术家，芝麻街公仔训练员，羊驼家族体验官
 
 #### OBTAINED MASTER DEGREE from SYSU.
 
